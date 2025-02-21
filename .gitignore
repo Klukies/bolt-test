@@ -1,0 +1,21 @@
+node_modules
+.npmrc
+.DS_store
+
+/.cache
+/playwright/.cache
+.react-router
+/build
+.env
+.env.local
+.env.*.local
+
+# Generated files
+app/components/ui/icons
+
+/playwright
+/playwright-report
+/playwright-test-results
+/tests/fixtures
+/vitest-coverage
+/vitest-test-results
