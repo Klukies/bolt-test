@@ -17,8 +17,7 @@
       "#routes/*": ["./app/routes/*"],
       "#utils/*": ["./app/utils/*"],
       "#app/*": ["./app/*"],
-      "#tests/*": ["./tests/*"],
-      "#route-types/*": ["./.react-router/types/app/routes/*"]
+      "#tests/*": ["./tests/*"]
     },
     "resolveJsonModule": true,
     "rootDirs": [".", "./.react-router/types"],
